@@ -11,6 +11,6 @@ mains{
     background-color: aliceblue;
     width: 500px;
     margin: auto;
-    pad: 10px;
+    padding: 10px;
     box-shadow: 3px 3px 5px rgb(0, 0, 0);
 }
